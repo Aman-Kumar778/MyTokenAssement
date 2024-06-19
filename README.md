@@ -1,10 +1,10 @@
 # MyToken Eth
 
-
+Here we are trying to build a simple token on ethereum blockchain like ERC-20 like token , where these token can be represented as assets , enabling transactions or rewards .
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+First 
 
 ## Getting Started
 
