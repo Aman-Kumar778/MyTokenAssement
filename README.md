@@ -72,12 +72,10 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
+Aman Kumar 
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the LICENSE.md file for details
