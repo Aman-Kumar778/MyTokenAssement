@@ -10,12 +10,12 @@ This contract is a small token , where we store variables like Token name, Token
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Remix Ide - visit any browser 
+* MetaMask  - if u need to compile the contract on injected web i.e on your own wallet.
 
 ### Executing program
 
-* How to run the program
+* To run this program , first we need to create a contract on Remix Ide online - "MyToken.sol" at https://remix.ethereum.org/.
 * Step-by-step bullets
 ```
 code blocks for commands
