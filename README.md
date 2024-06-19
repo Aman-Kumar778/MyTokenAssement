@@ -4,7 +4,7 @@ Here we are trying to build a simple token on ethereum blockchain like ERC-20 li
 
 ## Description
 
-First 
+This contract is a small token , where we store variables like Token name, Token Abbrv, Totol supply .Then we need to map the address of the user with there balance. After this , we define functions like mint() and burn() , which helps us to add or sub the values passed form the parameter to our balances . Also , we will define some conditions which help us to decide whether the transaction should occur or not. 
 
 ## Getting Started
 
